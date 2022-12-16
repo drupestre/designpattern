@@ -1,7 +1,7 @@
 {
     "name": "drupestre/designpattern",
     "description": "A playground for php design patterns",
-    "require": {
+    "require-dev": {
         "symfony/var-dumper": "^6.2"
     },
     "autoload": {
