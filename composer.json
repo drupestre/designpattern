@@ -1,0 +1,18 @@
+{
+    "name": "drupestre/designpattern",
+    "description": "A playground for php design patterns",
+    "require": {
+        "symfony/var-dumper": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Drupestre\\Designpattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "drupestre",
+            "email": "me@gmail.com"
+        }
+    ]
+}
